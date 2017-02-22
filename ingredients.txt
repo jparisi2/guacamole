@@ -1,2 +1,7 @@
 avocados
+tomatos
+onion
+cilantro
+garlic
+lemon
 
